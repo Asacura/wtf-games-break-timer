@@ -1,0 +1,32 @@
+{
+  "name": "wtf-games-break-timer",
+  "version": "1.0.0",
+  "description": "A small, framework-free countdown timer core for browser games and focus breaks.",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "game",
+    "games",
+    "timer",
+    "break",
+    "browser",
+    "productivity"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Asacura/wtf-games-break-timer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Asacura/wtf-games-break-timer/issues"
+  },
+  "homepage": "https://wtfgames.io/game-break-timer/"
+}
